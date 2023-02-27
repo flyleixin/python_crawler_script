@@ -4,7 +4,7 @@
 import hashlib
 
 # 待加密信息
-# str = '2321045219stu.nchu.edu.cn@FLYLX579@2023-02-09 22:37:0023idOocQiuaZ'
+
 str = input()
 # 创建md5对象
 hl = hashlib.md5()
